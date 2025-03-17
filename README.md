@@ -10,17 +10,17 @@ A ideia original do projeto foi inspirada em um desafio do programa, que visa te
 
 ### Funcionalidades 
 - **Adicionar Nomes**: Insira os nomes dos participantes, seja individualmente ou separados por vírgula. 
-- **Visualizar Lista**: Veja os nomes adicionados sendo exibidos dinamicamente na página. 👀
-- **Sorteio Completo**: Gere automaticamente os pares de Amigo Secreto, garantindo que ninguém sorteie a si mesmo. Uma mensagem personalizada é exibida junto com os resultados. 🎉
+- **Visualizar Lista**: Veja os nomes adicionados sendo exibidos dinamicamente na página. 
+- **Sorteio Completo**: Gere automaticamente os pares de Amigo Secreto, garantindo que ninguém sorteie a si mesmo. Uma mensagem personalizada é exibida junto com os resultados. 
 - **Sorteio Individual**: Sorteie um único amigo secreto e exiba uma mensagem exclusiva com o nome sorteado. 
 - **Reiniciar Sorteio**: Limpe a lista e os resultados para realizar um novo sorteio sem precisar recarregar a página. 
 
-### Tecnologias Utilizadas 🛠
+### Tecnologias Utilizadas 
 - **HTML5**: Para estruturar a página e garantir uma base semântica. 
 - **CSS3**: Para estilizar a interface e criar uma experiência visual agradável e responsiva. 
 - **JavaScript**: Para implementar a lógica do sorteio, manipulação do DOM e interação dinâmica da página. ⚙
 
-## Como Usar 🚀
+## Como Usar 
 
 1. **Clone o Repositório:**  
 
@@ -29,7 +29,7 @@ A ideia original do projeto foi inspirada em um desafio do programa, que visa te
 
 2. **Abra o Projeto:**  
 
-   Você pode abrir o projeto diretamente em seu navegador, clicando no arquivo `index.html`, ou usar uma extensão como *Live Server* no VS Code para visualização dinâmica. 🌐
+   Você pode abrir o projeto diretamente em seu navegador, clicando no arquivo `index.html`, ou usar uma extensão como *Live Server* no VS Code para visualização dinâmica. 
 
 3. **Adicione os Participantes:**  
 
